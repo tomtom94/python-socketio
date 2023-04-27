@@ -1,13 +1,13 @@
 # Instructions
 
 ```pyhton
-python main.py
+python app.py
 ```
 
 or
 
 ```pyhton
-python3 main.py
+python3 app.py
 ```
 
 ## Notes
